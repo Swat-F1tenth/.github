@@ -47,13 +47,13 @@ Full instructions are in the [swat-f1tenth README](https://github.com/Swat-F1ten
 
 ## Latest results: autonomy vs. human (V0, Nov 2026)
 
-<img src="https://raw.githubusercontent.com/Swat-F1tenth/swat-f1tenth/main/docs/v0_results/fig1_lap_progression.png" width="640" alt="Lap time progression"/>
+<img src="https://raw.githubusercontent.com/Swat-F1tenth/.github/main/profile/fig1_lap_progression.png" width="640" alt="Lap time progression"/>
 
 * Autonomous lap time **27.7 s → 16.6 s (−40%)** in one day of data-driven tuning
 * **Within 4.5%** of a practiced human driver, and **16% faster** than the same driver's first session
 * **6.5× more consistent** lap to lap (0.23 s vs. 1.49 s spread)
 
-Full write-up with methods and limitations: [results.md](https://github.com/Swat-F1tenth/swat-f1tenth/blob/main/docs/v0_results/results.md)
+Full write-up with methods and limitations: [results.md](https://github.com/Swat-F1tenth/swat-f1tenth/blob/follow-the-gap-pure-pursuit/docs/v0_results/results.md)
 
 ---
 
